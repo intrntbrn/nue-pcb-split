@@ -1,8 +1,8 @@
-# nue-split-pcb
+# nue-pcb-split
 
-- removed from ansi bottom row (6.25u)
+- removed ansi bottom row (6.25u)
 - remove iso support (split leftshift and iso enter)
-- added 10u stabilizers
+- added 10u stabilizer holes
 - added 1-2.75-2.25-1 split space option
 - not tested!
 
