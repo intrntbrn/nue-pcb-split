@@ -1,10 +1,11 @@
 # nue-pcb-split
 
 - removed ansi bottom row (6.25u)
-- remove iso support (split leftshift and iso enter)
+- removed iso support (split leftshift and iso enter)
 - added 10u stabilizer holes
 - added 1-2.75-2.25-1 split space option
-- not tested!
+- not tested! please select "confirm parts placement" when ordering from jlcpcb
+  (this is due to jst connector shortage).
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/1234183/183298914-0bee0920-23ba-4803-a657-656015da8c4b.png">
