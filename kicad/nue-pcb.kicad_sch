@@ -4208,7 +4208,7 @@
     (property "Value" "SPACE700" (id 1) (at 177.8 142.24 0)
       (effects (font (size 0.9906 0.9906)))
     )
-    (property "Footprint" "kestralib:MXOnly-10U-7U-ReversedStabilizers-NoLED" (id 2) (at 177.8 137.16 0)
+    (property "Footprint" "kestralib:MX10-7U" (id 2) (at 177.8 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 177.8 137.16 0)
@@ -5968,7 +5968,7 @@
     (property "Value" "SPACE2.75" (id 1) (at 177.8 151.13 0)
       (effects (font (size 0.9906 0.9906)))
     )
-    (property "Footprint" "kestralib:MXOnly-2.75U-ReversedStabilizers-NoLED" (id 2) (at 177.8 146.05 0)
+    (property "Footprint" "kestralib:MX275R" (id 2) (at 177.8 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 177.8 146.05 0)
@@ -6458,7 +6458,7 @@
       (reference "SW72") (unit 1) (value "LALT150") (footprint "kestralib:MX150")
     )
     (path "/00000000-0000-0000-0000-00005f4ec57c"
-      (reference "SW73") (unit 1) (value "SPACE700") (footprint "kestralib:MXOnly-10U-7U-ReversedStabilizers-NoLED")
+      (reference "SW73") (unit 1) (value "SPACE700") (footprint "kestralib:MX10-7U")
     )
     (path "/00000000-0000-0000-0000-00005f8fdf19"
       (reference "SW74") (unit 1) (value "RALT150") (footprint "kestralib:MX150")
@@ -6473,7 +6473,7 @@
       (reference "SW101") (unit 1) (value "FN1") (footprint "kestralib:MX100")
     )
     (path "/ff493b81-79b2-4f65-a979-cc9ab88a078f"
-      (reference "SW102") (unit 1) (value "SPACE2.75") (footprint "kestralib:MXOnly-2.75U-ReversedStabilizers-NoLED")
+      (reference "SW102") (unit 1) (value "SPACE2.75") (footprint "kestralib:MX275R")
     )
     (path "/1e1c2125-eda8-49f7-9d69-aaf5380dafe1"
       (reference "SW103") (unit 1) (value "SPACE2.25") (footprint "kestralib:MX225R")
